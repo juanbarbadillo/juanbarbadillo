@@ -19,5 +19,5 @@
 
 
 <h3> 🤝🏻 Contact me  </h3> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a align="left" href="https://www.linkedin.com/in/juan-barbadillo-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a align="left" href="https://www.linkedin.com/in/juan-barbadillo-3a191a27/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 
