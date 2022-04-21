@@ -6,7 +6,7 @@
 - 🚀 &nbsp; Exploring new technologies and software solutions.
 - 🎓 &nbsp; Software Engineer.
 - 💼 &nbsp; Working as a Software Architect.
-- 👨‍🏫 &nbsp; Studying an Education Master.
+- 👨‍🏫 &nbsp; Studying a Master in University Teaching.
 - 🏋️‍♂️ &nbsp; I love making exercises and playing soccer in my free time. 
 
 <h3>🛠 Tech Stack</h3>
