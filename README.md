@@ -1,5 +1,5 @@
 <h2> Hello! I'm Juan Jorge</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/juanbarbadillo/juanbarbadillo/blob/b7f762cc42f712131d907040a01db7a4faddff19/programming.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
